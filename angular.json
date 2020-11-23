@@ -127,5 +127,8 @@
       }
     }
   },
-  "defaultProject": "best-immo-front"
+  "defaultProject": "best-immo-front",
+  "cli": {
+    "analytics": "4dc76782-de64-471a-9e1c-202f2d0f9ead"
+  }
 }
